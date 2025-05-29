@@ -10,7 +10,7 @@ import ReviewCarousel from "../components/Review"
 
 import Offer from "../components/Offer"
 
-import Trust from "../components/Trust"
+ 
 const Home = () => {
   return (
     <div>
@@ -22,7 +22,7 @@ const Home = () => {
     <Intro/>
     <ReviewCarousel/>
     <Offer/>
-    <Trust/>
+    
     </div>
   )
 }
